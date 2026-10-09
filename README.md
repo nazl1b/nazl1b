@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Nazli 👋
 
-<!--
-**nazl1b/nazl1b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science & Biomedical Informatics student at the University of Thessaly.
+I enjoy building web applications from frontend to backend, and I'm looking for junior developer roles (Frontend / Full-Stack) in Thessaloniki, Greece.
 
-Here are some ideas to get you started:
+- 💼 Full-Stack Developer Intern at LetStudy: co-developed a Git-based CMS
+- 🌱 Currently learning: TypeScript, React, Node.js
+- 📫 Reach me: LinkedIn: www.linkedin.com/in/nazli-b-5686772b2 · nazlibesim2@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools I use
+React · TypeScript · Node.js · Express · PostgreSQL · Prisma · Git
+
+## 🚀 Featured project
+**[Clinic Booking](https://github.com/nazl1b/clinic-booking)**: A clinic appointment booking app with patient, doctor and admin roles.
+[Live demo](https://clinic-booking-w0l4.onrender.com)
